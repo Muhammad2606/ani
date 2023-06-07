@@ -138,3 +138,14 @@ body{
         transform: translateX(20px);
     }
 }
+
+@media only screen and (max-width:768px){
+        .card
+
+        {
+            width: 100%;
+        }
+        .tree{
+    margin-top: 45.2%;
+}
+}
